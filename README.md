@@ -1,3 +1,5 @@
+<p align="center">Bankbuddy.ai internship project</p>
+
 <div align="center">
 	<img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/RB3572/Capstone/lint-project">
 	<img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/RB3572/Capstone">
