@@ -32,7 +32,7 @@ Existing projects include:
 	- Sentiment of articles analyzed using Natural Language Toolkit package (NLTK)
 	- Stock prices and sentiment used as explanatory variables for neural network, stock prediction is the response variable
 - [Brownian Motion](https://github.com/yiqiao-yin/Introduction-to-Machine-Learning-Big-Data-and-Application/blob/main/scripts/R/2021Summer/day_4.R)
-	- Uses the knowledge that plots of simulated particle movement match plots of stock returns (gif credit: [yiqiao-yin](https://github.com/yiqiao-yin/Introduction-to-Machine-Learning-Big-Data-and-Application/blob/main/docs/big-data-machine-learning/notes/Day3.md))
+	- Uses the knowledge that plots of simulated particle movement match plots of stock returns (https://github.com/yiqiao-yin/Introduction-to-Machine-Learning-Big-Data-and-Application/blob/main/docs/big-data-machine-learning/notes/Day3.md))
 	- Parameters for brownian motion can be tuned using past data to predict future stock trends
 
 <div>
