@@ -10,7 +10,7 @@
 </div>
 
 # <p align="center">Machine Learning Stock Predictions</p>
-<p align="center">Rakshit Kaushik, Alessandro Ferrari, Sergio Papa Estefano, Rishi Bhargava</p>
+<p align="center">Rakshit Kaushik, Rishi Bhargava</p>
 
 ## Data
 Past stock data will be obtained using the quantmod package. Quantmod stands for quantitative financial modeling framework, and it is used to "specify, build, trade, and analyse quantitative financial trading strategies."[(cran.r-project.org)](https://cran.r-project.org/web/packages/quantmod/quantmod.pdf) Opening, high, low, closing, and the adjusted closing prices of a stock can be obtained using the ``` getSymbols() ``` function. It provides data for every day from January 3, 2007 to the current date. 
